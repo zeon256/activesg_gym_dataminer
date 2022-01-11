@@ -1,4 +1,4 @@
-# ActiveSG Gym Data Mine
+# ActiveSG Gym Data Miner
 > This repo host the source code that query and parse the slot data for all the ActiveSG Gyms
 
 ## Usage
